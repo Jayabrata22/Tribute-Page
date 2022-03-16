@@ -1,0 +1,35 @@
+div{
+    background: linear-gradient(to top,#d9d9d9 100%,#9f6060 10%);
+    text-align: center;
+}
+
+
+body{
+
+    background: linear-gradient(#d9d9d9,#808080);
+}
+
+p{
+    border:2px solid gray;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+h3{ 
+    text-align: center;
+    border: 2px black;
+}
+
+#shark{
+    text-align: center;
+    font-style: italic;
+    border: 3px solid gray;
+}
+
+h6{
+    text-align: center;
+}
